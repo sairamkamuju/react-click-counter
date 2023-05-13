@@ -21,7 +21,7 @@ class ClickCounter extends Component {
                 <button
                     className="click-button"
                     type="button"
-                    onclick={this.onIncrease}
+                    onClick={this.onIncrease}
                 >
                     Click Me
         </button>
